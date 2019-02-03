@@ -10,16 +10,12 @@
 
 ## Requirements:
 
-### Live Split:
-
-+   [Activate Load Removal Tool](insert_link_here)
-+   [Display both In-game and Real Time](insert_link_here)
-
-### Collectibles:
-
-| Pagies | Quills | Moves                                                        | Tonics                 |
-| ------ | ------ | ------------------------------------------------------------ | ---------------------- |
-| 12     | 60     | Tail Twirl<br />Reptile Roll<br />Glide<br />Slurp Shot<br />Buddy Slam<br />Flappy Flight | Baller<br />Super Slam |
+| Collectibles | Totals |
+|--------------|----|
+| Pagies       | 12 |
+| Quills       | 60 |
+| Moves        | Tail Twirl<br />Reptile Roll<br />Glide<br />Slurp Shot<br />Buddy Slam<br />Flappy Flight |
+| Tonics       | Baller<br />Super Slam |
 
 ---
 
@@ -39,6 +35,11 @@
 ---
 
 ## Hivory 1
+
+|             | Pagies | Quills | Moves |
+| ----------- | ------ | ------ | ----- |
+| **Section** | 5      | 1      | 3     |
+| **Total**   | 5      | 1      | 3     |
 
 ### Shipwreck Creek:
 
@@ -71,25 +72,73 @@
 
 >   *Pro-tip: You can save time traveling if you enter WW with [Quick-Rise](insert_link). You can also save time by doing [No-Splash-Jumping](insert_link) and even more time by performing [DerKO-Strat](insert_link)*
 
-+   Perform [Archive Clip](insert_link)
++   Collect Archive pagie by performing [Archive Clip](insert_link)
 
 >   *Pro-tip: It doesn't hurt to attempt to [roll into](insert_link) the archive door on your first attempt at the clip. When attempting to clip through the archive door, you will want YL to be positioned about 2/3rds the way to the top of the door when you air-attack. Everyone has a unique method of clipping through the door with varying degrees of success.*
 
-+   
++   Exit Archive and equip Baller Tonic from Vendi next to Archive entrance.
++   Talk to Trowser to learn Glide
++   Collect [Tube Pagie](insert_link)
++   Collect Metal Slide Pagie by performing [Honeyless Metal Slide](insert_link)
++   Collect pagie above Glitter tome by performing [Snow Climb](insert_link)
++   Drop down and head to Hub A through [windy bridge](insert_link)
++   Enter Hub A
 
 ### Hub A2:
 
-+   
++   Enter Tribalstack
 
 ---
 
 ## Tribalstack
 
+|             | Pagies | Quills | Moves |
+| ----------- | ------ | ------ | ----- |
+| **Section** | 2      | 59     | 2     |
+| **Total**   | 7      | 60     | 5     |
 
++   Collect 5 quills beside the entrance
++   Collect 5 quills on ramp in front of entrance
++   Collect 3 quills around the Ice Berry Bush
++   Collect 5 quills on steps heading to Hungry Ghost
++   Collect 6 quills on Rampo complex
++   Collect 5 quills in circle around Hidey Ghost
++   Talk to Pagie Piece
+    +   Collect 5 quills under canopy by Pagie Piece
+    +   Collect the 3 Pagie Pieces
+
+>   *Pro-tip: Hold Y(x360 controller) while collecting the pagie pieces to skip through the dialogue. If you hold Y the entire time, you will be able to just talk to the Pagie Piece as soon as you get to him.*
+
++   Talk to Pagie Piece and collect the Pagie
++   Collect 2 quills on ramp of Duke's Temple
++   Collect 1 quill on corner of Duke's Temple nearest the Monument
++   Collect 4 quills on ramp and pillar near Monument
++   Collect 3 quills on race track next to Bubble Pool behind Rocks
++   Climb the Rocks
++   Collect 3 quills at Rocks entrance
++   Collect 3 quills behind pressure plate on top of Rocks
++   Do the Rocks Hoop Race and collect Rocks Pagie
+    +   Collect 5 quills during Race
++   Perform [Long Jump](insert_link) towards  nearest corner of Duke's Temple
++   Collect 1 quill at Duke's Temple corner
++   Collect 3 quills on Duke's Temple Ramp near Slam Puzzle
++   Talk to Trowser
+    +   Buy Slurp Shot
+    +   Buy Buddy Slam
++   Return to Hub
+
+>   *Pro-tip: You can pause and exit as soon as you see the Save icon show up at the bottom corner of the screen after you learn the last move.*
 
 ---
 
 ## Hivory 2
+
+|             | Pagies | Quills | Moves |
+| ----------- | ------ | ------ | ----- |
+| **Section** | 4      | 0      | 0     |
+| **Total**   | 11     | 60     | 5     |
+
+
 
 ---
 
