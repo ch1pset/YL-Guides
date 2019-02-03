@@ -25,16 +25,16 @@
 
 ## Sections:
 
-+   [Hivory 1](#Hivory-1)
-    +   [Shipwreck](#Shipwreck-Creek:)
-    +   [Hub A1](#Hub-A1:)
-    +   [Hub B](#Hub-B:)
-    +   [Hub A2](#Hub-A2:)
-+   [Tribalstack](#Tribalstack)
-+   [Hivory 2](#Hivory-2)
-+   [Cashino](#Cashino)
-+   [Hivory 3](#Hivory-3)
-+   [Capital B](#Capital-B)
++   [Hivory 1](#hivory-1)
+    +   [Shipwreck](#shipwreck-creek:)
+    +   [Hub A1](#hub-a1:)
+    +   [Hub B](#hub-b:)
+    +   [Hub A2](#hub-a2:)
++   [Tribalstack](#tribalstack)
++   [Hivory 2](#hivory-2)
++   [Cashino](#cashino)
++   [Hivory 3](#hivory-3)
++   [Capital B](#capital-b)
 
 ---
 
