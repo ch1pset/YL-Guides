@@ -38,7 +38,7 @@
     +   [Entrance](#tribal-entrance)
     +   [Pagie Pieces](#pagie-pieces)
     +   [Rocks](#rocks)
-    +   [Duke's Temple](#duke's-temple)
+    +   [Duke's Temple](#dukes-temple)
 +   [Hivory 2](#hivory-2)
     +   [Hub A 3](#hub-a-3)
     +   [Shipwreck](#shipwreck-creek-2)
@@ -68,12 +68,12 @@
 
 +   Head straight over to Trowser and talk to him. He will teach you Tail Twirl. 
 
->   *Pro-tip: The more direct your path is to Trowser, the faster you will reach him. Additionally, you can save up to 2 seconds by positioning YL the distance they stand from Trowser during the dialogue. This will eliminate the animation time it takes for YL to automatically position themselves from Trowser before the dialogue starts.*
+>   *Pro-tip: The more direct your path is to Trowser, the faster you will reach him. Additionally, you can save up to 2 seconds by positioning YL the distance they stand from Trowser during the dialogue. This will eliminate the animation time it takes for YL to automatically position themselves from Trowser before the dialogue starts. This applies to all NPC dialogue.*
 
 +   Immediately Tail Twirl the chest next to Trowser and collect the quill inside.
 +   Perform Trowser Skip: 
-    +   [Method 1](insert_link_here)
-    +   [Method 2](insert_link_here)
+    +   [Lag Jump Method](insert_link_here)
+    +   [Old Trowser Skip](insert_link_here)
 +   ***Optional:*** Grab Butterfly Booster
 +   Perform [Quack Skip](insert_link_here)
 +   Enter Hivory
@@ -288,4 +288,5 @@
 
 ## Congratulations!
 
->   If you are a newcommer and learned this run first, you have now learned the basics of YL speedrunning. You can submit your best run to the [YL SRC](https://www.speedrun.com/yl#Any_w_Flight) and it will be verified by one of our mods.
+>   If you are a newcommer and learned this run first, you have now learned the basics of YL speedrunning. You can submit your best run to the [YL SRC](https://www.speedrun.com/yl#Any_w_Flight) and it will be verified by one of our mods. We hope you will continue running this game, it is a very fun speedgame.
+

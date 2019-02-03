@@ -1,5 +1,6 @@
-Welcome to YL Guides!
-======================
+## PC
 
-## Categories
+### Categories
+
 + [Any% W/ Flight](any_w_flight)
+
