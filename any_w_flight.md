@@ -51,14 +51,14 @@
 
 ### Shipwreck Creek:
 
-+   Head straight over to Trowser and talk to him. He will teach you Tail Twirl.
++   Head straight over to Trowser and talk to him. He will teach you Tail Twirl. 
 
 >   *Pro-tip: The more direct your path is to Trowser, the faster you will reach him. Additionally, you can save up to 2 seconds by positioning YL the distance they stand from Trowser during the dialogue. This will eliminate the animation time it takes for YL to automatically position themselves from Trowser before the dialogue starts.*
 >
 >   
 
 +   Immediately Tail Twirl the chest next to Trowser and collect the quill inside.
-+   Perform Trowser Skip:
++   Perform Trowser Skip: 
     +   [Method 1][insert_link_here]
     +   [Method 2][insert_link_here]
 +   **Optional:** Grab Butterfly Booster
@@ -94,3 +94,4 @@
 ##  Capital B
 
 ---
+
