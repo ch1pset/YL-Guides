@@ -2,10 +2,17 @@
 
 ### Categories
 
++ [Any%](not-written)
 + [Any% W/ Flight](any-w-flight)
-+ [All Bosses](all-bosses)
-+ [100 Pagies](100-pagies)
-+ [100%](100)
++ [All Bosses](not-written)
++ [100 Pagies](not-written)
++ [100%](not-written)
+
+### Category Extensions
+
++   [Open All Tomes](not-written)
++   [Expand All Tomes](not-written)
++   [Pagie Rampagie](not-written)
 
 ### Streaming/Recording
 
