@@ -20,8 +20,8 @@
 
 ### SRC Submissions:
 
-+   Keep a visible [FPS Counter](/fpscounters/guide)
-+   Activate Live Split [Auto Splitter](/livesplit/guide)
++   Keep a visible [FPS Counter](fpscounters/guide)
++   Activate Live Split [Auto Splitter](livesplit/guide)
 +   Keep in-game time visible
 +   Cap your FPS to 60 or 30 using in-game vsync options
 
