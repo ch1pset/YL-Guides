@@ -16,5 +16,5 @@
 
 ### Streaming/Recording
 
-+   [FPS Counters](fps-counters)
-+   [Live Split](live-split)
++   [FPS Counters](/fps-counters/guide)
++   [Live Split](/live-split/guide)

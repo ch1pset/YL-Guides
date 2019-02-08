@@ -21,7 +21,7 @@
 ### SRC Submissions:
 
 +   Keep a visible [FPS Counter](fps-counters)
-+   Activate Live Split [Load Removal Tool](live-split#load-removal-tool)
++   Activate Live Split [Load Removal Tool](/live-split/guide#create-splits)
 +   Keep in-game time visible
 +   Cap your FPS to 60 or 30 using in-game vsync options
 
