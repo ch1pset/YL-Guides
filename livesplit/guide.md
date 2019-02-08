@@ -26,13 +26,13 @@ Click the **+** button, then hover over *List* and select *Splits* and click *OK
 
 Now right-click Live Split, and select *Edit Splits*(instead of Layout). This will bring up the Splits Editor:
 
-![Splits Editor](/images/splits-editor.jpg)
+![Splits Editor](/images/splits-editor.JPG)
 
 Enter *Yooka-Laylee* as the Game Name, you will be able to select the game from a drop down menu as you type it. Click on the game name in the drop down so that you will have access to the *Auto Splitter*. You should see *Activate* become *Deactivate* and *Settings* become clickable. If not, click *Activate*.
 
 Now you can begin adding splits by clicking *Insert Below/Above*. Split information is all optional, but you should name your splits after significant points of the run to help you remember the route, like these:
 
-![Splits Populated](/images/splits-populated.jpg)
+![Splits Populated](/images/splits-populated.JPG)
 
 In the picture above, you'll notice some splits that are prefixed with (**-**) and others with 2 names, one in **{ }** and the other outside of them. These are only useable if you are using *Subsplits*, it allows you to subdivide segments into subsegments where the sum of all the subsegments are a full segment. It's useful for dividing up longer runs, but are not necessary.
 
@@ -44,7 +44,7 @@ Click *OK* when you have finished adding segments.
 
 Once again, right-click the Live Split window anywhere and select *Edit Layout*. Now we're going to add a *Timer*. You may use a *Detailed Timer* that will display additional information about each segment time, but for now we will just use a *Timer*. Double-click the new Timer and it will bring up this window:
 
-![Timer Settings](/images/timer-settings.jpg)
+![Timer Settings](/images/timer-settings.JPG)
 
 Notice there are now 2 *Timer* tabs, and notice the *Timing Method* option. You will want to set one Timer to *Real Time* and the other to *Game Time*. Game Time is necessary for submitting any PC runs to SRC for YL.
 
@@ -54,7 +54,7 @@ Click *OK* when you are finished.
 
 Now right-click on Live Split and select *Settings*, you will get this window:
 
-![Settings](/images/live-split-settings.jpg)
+![Settings](/images/live-split-settings.JPG)
 
 In order to use Live Split with YL, you will need to enable *Global Hotkeys* and *Double Tap Prevention* to avoid issues with timing.
 
