@@ -20,8 +20,8 @@
 
 ### SRC Submissions:
 
-+   Keep a visible [FPS Counter](fps-counters)
-+   Activate Live Split [Load Removal Tool](/live-split/guide#create-splits)
++   Keep a visible [FPS Counter](/fpscounters/guide)
++   Activate Live Split [Auto Splitter](/livesplit/guide)
 +   Keep in-game time visible
 +   Cap your FPS to 60 or 30 using in-game vsync options
 
@@ -66,13 +66,13 @@
 
 ### Shipwreck Creek 1:
 
-+   Head straight over to Trowser and talk to him. He will teach you Tail Twirl. 
++   Head straight over to Trowser and talk to him. He will teach you Tail Twirl.
 
 >   *Pro-tip: The more direct your path is to Trowser, the faster you will reach him. Additionally, you can save up to 2 seconds by positioning YL the distance they stand from Trowser during the dialogue. This will eliminate the animation time it takes for YL to automatically position themselves from Trowser before the dialogue starts. This applies to all NPC dialogue.*
 
 +   Immediately Tail Twirl the chest next to Trowser and collect the quill inside.
-+   Perform Trowser Skip: 
-    +   [Lag Jump Method](insert_link_here)
++   Perform Trowser Skip:
+    +   [Lag Jump Method](https://streamable.com/zkazp)
     +   [Old Trowser Skip](insert_link_here)
 +   ***Optional:*** Grab Butterfly Booster
 +   Perform [Quack Skip](insert_link_here)
@@ -289,4 +289,3 @@
 ## Congratulations!
 
 >   If you are a newcommer and learned this run first, you have now learned the basics of YL speedrunning. You can submit your best run to the [YL SRC](https://www.speedrun.com/yl#Any_w_Flight) and it will be verified by one of our mods. We hope you will continue running this game, it is a very fun speedgame.
-
